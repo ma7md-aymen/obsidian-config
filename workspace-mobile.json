@@ -1,0 +1,387 @@
+{
+  "main": {
+    "id": "33df64f0240c2159",
+    "type": "split",
+    "children": [
+      {
+        "id": "adefe7c2ac587303",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf48021c06343cb4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0aa20483eefd9753",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "57cfc1afeb01c198",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "3. مصادر مختلفة/لماذا افعل.canvas",
+                "viewState": {
+                  "x": -232.12847488009,
+                  "y": -270.81923948944666,
+                  "zoom": -0.6103675635359572
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "لماذا افعل"
+            }
+          },
+          {
+            "id": "cbdac742ed41450e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. أرشيف/منظمة الذكاء الأصطناعي.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "منظمة الذكاء الأصطناعي"
+            }
+          },
+          {
+            "id": "8520a87eeb137055",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "بدون عنوان.canvas",
+                "viewState": {
+                  "x": 576.0190691046704,
+                  "y": -580.1796073700262,
+                  "zoom": -2.4233399514308607
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "بدون عنوان"
+            }
+          },
+          {
+            "id": "7e470b2968b09fa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. أرشيف/كتب قرأتها.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "كتب قرأتها"
+            }
+          },
+          {
+            "id": "c3bd7e53e9beca6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. إدارة المسؤليات/اوراق/اكاديمة اعداد القادة 1.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "اكاديمة اعداد القادة 1"
+            }
+          },
+          {
+            "id": "702f8be35f7c75b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "تسريب ذكاء اصطناعي/هاكر deepseek.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "هاكر deepseek"
+            }
+          },
+          {
+            "id": "696add5d17c6eab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "تسريب ذكاء اصطناعي/deep seek.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "deep seek"
+            }
+          },
+          {
+            "id": "2dfa4d2c743c989b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "تسريب ذكاء اصطناعي/deepseek مجموعات.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "deepseek مجموعات"
+            }
+          },
+          {
+            "id": "7ee04d84eed0aa22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "تسريب ذكاء اصطناعي/deep seek.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "deep seek"
+            }
+          },
+          {
+            "id": "57e749e9d54da480",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. أرشيف/دورات م. ايمن عبدالرحيم.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "دورات م. ايمن عبدالرحيم"
+            }
+          }
+        ],
+        "currentTab": 11
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7b10d0346bec1fdf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8231141c7180cdd7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "a4c2e5216fc26708",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#مشروع",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "ae086754923f4683",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "aaadc3d4d337888d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "ce5f912f77975edf",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {},
+          "icon": "clock",
+          "title": "Recent Files"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d3b49f173ba822ee",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f76760b891ba5942",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "4. أرشيف/مقالات/تعريف الجهاد.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": false
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "448a3a2d2d64cbfb",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "2. إدارة المسؤليات/جوامع/إحالات كتاب منهاج الإعداد.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "9e513e0d6e8c6ad9",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "2. إدارة المسؤليات/جوامع/إحالات كتاب منهاج الإعداد.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "95008c161c9f5c5f",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-projects:Open projects": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "ce5f912f77975edf",
+  "lastOpenFiles": [
+    "3. مصادر مختلفة/كتب.md",
+    "4. أرشيف/مقالات/الصلاة.md",
+    "4. أرشيف/اعدادي.md",
+    "4. أرشيف/منظمة الذكاء الأصطناعي.md",
+    "4. أرشيف/مقالات/تعريف الجهاد.md",
+    "تجربة الخمس السري.md",
+    "Untitled.md",
+    "تسريب ذكاء اصطناعي/deep seek.md",
+    "تسريب ذكاء اصطناعي/هاكر deepseek.md",
+    "2. إدارة المسؤليات/جوامع/التأسيس الحديثي.md",
+    "2. إدارة المسؤليات/جوامع/اكاديمة اعداد القادة.md",
+    "2. إدارة المسؤليات/ملخصات كتب/البناء العقدي للجيل الصاعد.md",
+    "2. إدارة المسؤليات/ملخصات كتب/الأب الغني والأب الفقير.md",
+    "2. إدارة المسؤليات/البناء المنهجي.md",
+    "2. إدارة المسؤليات/دورات متنوعة.md",
+    "2. إدارة المسؤليات/ملخصات كتب.md",
+    "3. مصادر مختلفة/لماذا افعل.canvas",
+    "4. أرشيف/بدون عنوان.canvas",
+    "4. أرشيف/دورات م. ايمن عبدالرحيم.md",
+    "4. أرشيف/كتب قرأتها.md",
+    "4. أرشيف/كتب قرأتها (conflict 2025-02-07-20-42-35).md",
+    "4. أرشيف/codes.md",
+    "4. أرشيف/onion links.md",
+    "تسريب ذكاء اصطناعي/deepseek مجموعات.md",
+    "طبائع الاستبداد ومصارع الأستعمار.md",
+    "Pasted image ٢٠٢٤١٢٢٠١٦٣٤٠٤.png",
+    "nix os شرح آلي.md",
+    "بدون عنوان.md",
+    "تنظيم.md",
+    "تسريب ذكاء اصطناعي",
+    "بدون عنوان.canvas",
+    "2. إدارة المسؤليات/اوراق/الثُلث الأول.canvas",
+    "4. أرشيف/مقالات",
+    "Recording 20240928103520.m4a",
+    "3. مصادر مختلفة/ماذا أفعل.canvas",
+    "3. مصادر مختلفة/ملفات/Screenshot 2024-04-22 224847 1.png",
+    "3. مصادر مختلفة/ملفات/Pasted image 20231231123928.png",
+    "3. مصادر مختلفة/ملفات/Pasted image 20231230140302.png",
+    "2. إدارة المسؤليات/اوراق/photo_2024-08-20_04-08-03.jpg",
+    "2. إدارة المسؤليات/جوامع",
+    "4. أرشيف/لماذا.canvas",
+    "4. أرشيف/daily",
+    "4. أرشيف",
+    "3. مصادر مختلفة/عشاوئيات/Untitled.canvas",
+    "3. مصادر مختلفة/ملفات/templates",
+    "3. مصادر مختلفة/ملفات",
+    "3. مصادر مختلفة/لماذا.canvas",
+    "3. مصادر مختلفة/عشاوئيات/تجارب.canvas",
+    "3. مصادر مختلفة/عشاوئيات/Untitled 1.canvas",
+    "3. مصادر مختلفة/عشاوئيات/Screenshot 2024-04-22 224847.png",
+    "3. مصادر مختلفة/عشاوئيات",
+    "3. مصادر مختلفة",
+    "عشاوئيات/Screenshot 2024-04-22 224847.png",
+    "ملفات/1705826527611.png",
+    "ملفات/1705826527632.png",
+    "ملفات/1705826527617.png"
+  ]
+}

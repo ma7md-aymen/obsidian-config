@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "33df64f0240c2159",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b645543996af737",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dff219432133bb45",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "8bd2788c8790a468",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f20f191ab36809b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9562ee90d2c1e932",
+        "type": "tabs",
+        "dimension": 56.26535626535627,
+        "children": [
+          {
+            "id": "746917ebb899ebf0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1631feafe8f37798",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#ابواب",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6ad39563ef5c6597",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "aace7814f7f5bf7f",
+        "type": "tabs",
+        "dimension": 43.73464373464373,
+        "children": [
+          {
+            "id": "47a0c42d5f61fc82",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "da5dc5e501c4de5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9410469a1ec9052d",
+        "type": "tabs",
+        "dimension": 64.35523114355232,
+        "children": [
+          {
+            "id": "656350601330d435",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "61a8aa3fdad04515",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "4. أرشيف/codes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "روابط نصية لـ codes"
+            }
+          },
+          {
+            "id": "1f9ad5ed2bab1c82",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4. أرشيف/codes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "الروابط الصادرة من codes"
+            }
+          },
+          {
+            "id": "0a3e52f9aa06d821",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4. أرشيف/codes.md"
+              },
+              "icon": "lucide-list",
+              "title": "الخطوط العريضة لـ codes"
+            }
+          },
+          {
+            "id": "3c8b6f8c8d02bd88",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-share-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "4eeaed835b87fd27",
+        "type": "tabs",
+        "dimension": 35.64476885644769,
+        "children": [
+          {
+            "id": "4460fea8b8448ee6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "العرض البياني"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "8bd2788c8790a468",
+  "lastOpenFiles": [
+    "شوف.md",
+    "2. إدارة المسؤليات/جوامع/اصول الفقه.md",
+    "2. إدارة المسؤليات/البناء المنهجي.md",
+    "2. إدارة المسؤليات/ملخصات كتب.md",
+    "2. إدارة المسؤليات/دورات متنوعة.md",
+    "2. إدارة المسؤليات/جوامع/فقه العبادات.md",
+    "2. إدارة المسؤليات/جوامع/القواعد الفقهية.md",
+    "2. إدارة المسؤليات/جوامع/اصول الفقه - القواعد الفقهية.md",
+    "2. إدارة المسؤليات/جوامع/اصول الفقه - فقه العبادات.md",
+    "أصول الفقه - والقواعد الفقهية.pdf",
+    "امسك العلم/red CTF.md",
+    "4. أرشيف/جماعة.md",
+    "4. أرشيف/اختيار التخصص.md",
+    "تسريب ذكاء اصطناعي/ZORG-MASTER👽.md",
+    "4. أرشيف/codes.md",
+    "4. أرشيف/brave PassChain.md",
+    "امسك العلم",
+    "2. إدارة المسؤليات/اوراق/طبائع الاستبداد ومصارع الأستعمار.md",
+    "3. مصادر مختلفة/كتب.md",
+    "4. أرشيف/Pasted image ٢٠٢٤١٢٢٠١٦٣٤٠٤.png",
+    "تسريب ذكاء اصطناعي/deep seek.md",
+    "تسريب ذكاء اصطناعي/هاكر deepseek.md",
+    "لي معنديش اصحاب.md",
+    "تجربة.md",
+    "تنظيم.md",
+    "بدون عنوان.md",
+    "تجربة الخمس السري.md",
+    "تسريب ذكاء اصطناعي/deepseek مجموعات.md",
+    "2. إدارة المسؤليات/جوامع/إحالات كتاب منهاج الإعداد.md",
+    "3. مصادر مختلفة/لماذا افعل.canvas",
+    "4. أرشيف/بدون عنوان.canvas",
+    "2. إدارة المسؤليات/ملخصات كتب",
+    "2. إدارة المسؤليات/اوراق/الثُلث الأول.canvas",
+    "بدون عنوان",
+    "Recording 20240928103520.m4a",
+    ";",
+    "3. مصادر مختلفة/ماذا أفعل.canvas",
+    "3. مصادر مختلفة/لماذا افعل (conflict 2024-09-28-07-01-40).canvas",
+    "3. مصادر مختلفة/ملفات/Pasted image ٢٠٢٤٠٩١٧٠٣٣٣٤٣.png",
+    "3. مصادر مختلفة/ملفات/Pasted image ٢٠٢٤٠٩١٧٠٣١٦٤٧.png",
+    "3. مصادر مختلفة/ملفات/Pasted image ٢٠٢٤٠٩١٧٠٣٣٣٠٤.png",
+    "3. مصادر مختلفة/ملفات/Pasted image ٢٠٢٤٠٩١٧٠٢٣٨٥١.png",
+    "3. مصادر مختلفة/ملفات/Pasted image ٢٠٢٤٠٩١٧٠٢٣٠٥٧.png",
+    "3. مصادر مختلفة/ملفات/Pasted image ٢٠٢٤٠٩١٧٠٢٣٨٣٠.png",
+    "4. أرشيف/لماذا.canvas",
+    "magic forest aesthetic green desktop wallpaper.png",
+    "2. إدارة المسؤليات/اوراق/photo_2024-08-20_04-08-03.jpg",
+    "3. مصادر مختلفة/عشاوئيات",
+    "3. مصادر مختلفة/عشاوئيات/تجارب.canvas",
+    "3. مصادر مختلفة/عشاوئيات/Untitled 1.canvas",
+    "3. مصادر مختلفة/عشاوئيات/Untitled.canvas",
+    "3. مصادر مختلفة/عشاوئيات/Screenshot 2024-04-22 224847.png",
+    "1. مشاريع",
+    "2. ادوار المسؤليه/جوامع المسؤوليات",
+    "2. إدارة المسؤليات/ورق_مسؤليات",
+    "Untitled.canvas"
+  ]
+}

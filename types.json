@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "الصحة؟": "number",
+    "النوم": "number",
+    "قريته": "checkbox",
+    "تقيمة": "number",
+    "": "text",
+    "تاريخ الإنتهاء": "date"
+  }
+}

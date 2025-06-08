@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "33df64f0240c2159",
+    "type": "split",
+    "children": [
+      {
+        "id": "539d1b60f050fc7d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ideas/simple app.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f20f191ab36809b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9562ee90d2c1e932",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "746917ebb899ebf0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1631feafe8f37798",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c14fc464135dc3ae",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "da5dc5e501c4de5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9410469a1ec9052d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28554bd1cd4c16c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ideas/simple app.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0500a9c52396c50a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ideas/simple app.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "656350601330d435",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a99f95eaacb06969",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ideas/simple app.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "539d1b60f050fc7d",
+  "lastOpenFiles": [
+    "ideas/complex app.md",
+    "flutter learning/fluttrt.md",
+    "flutter learning/flutter steps.md",
+    "ideas/simple app.md",
+    "codes.md",
+    "wew/wew3/wew2.md",
+    "مش عارف.md",
+    "2022-09-02.md"
+  ]
+}

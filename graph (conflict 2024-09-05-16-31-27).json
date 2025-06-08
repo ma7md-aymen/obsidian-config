@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "file:البناء",
+      "color": {
+        "a": 1,
+        "rgb": 65535
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 1.90053375477099,
+  "lineSizeMultiplier": 2.90096016221374,
+  "collapse-forces": false,
+  "centerStrength": 0.514134064885496,
+  "repelStrength": 17.2238788167939,
+  "linkStrength": 0.649391698473283,
+  "linkDistance": 207,
+  "scale": 0.33283189628101023,
+  "close": true
+}

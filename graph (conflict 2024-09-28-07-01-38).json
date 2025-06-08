@@ -1,0 +1,37 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "file:البناء",
+      "color": {
+        "a": 1,
+        "rgb": 65535
+      }
+    },
+    {
+      "query": "file:دورات متنوعة ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 1.90053375477099,
+  "lineSizeMultiplier": 2.90096016221374,
+  "collapse-forces": true,
+  "centerStrength": 0.614583333333333,
+  "repelStrength": 13.3333333333333,
+  "linkStrength": 0.927083333333333,
+  "linkDistance": 270,
+  "scale": 0.3345647070849459,
+  "close": true
+}
