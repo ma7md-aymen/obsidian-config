@@ -1,0 +1,47 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "📎",
+      "📖",
+      "📗",
+      "📑"
+    ],
+    "recentlyUsedIconsSize": 4,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
+  },
+  "عشاوئيات": "FabFaceGrin",
+  "4. الأرشيف/flutter learning": {
+    "iconName": null,
+    "inheritanceIcon": "FabFileCode"
+  },
+  "4. الأرشيف/ملخصات كتب": {
+    "iconName": null,
+    "inheritanceIcon": "📎"
+  },
+  "2. ادوار المسؤليه/daily": "📫",
+  "3. المصادر والأدوات/حجات عايز اتعلمها.md": "FabBook",
+  "0. البناء الهجي/المنهاج من ميراث النبوة.md": "📗",
+  "0. البناء الهجي": {
+    "iconName": "🔖",
+    "inheritanceIcon": "📑"
+  },
+  "0. البناء الهجي/5 باب في أن الدين على مراتب متفاوتة في الأمر والنهي والخبر وأن الفقه في الدين و....md": "📑",
+  "0. البناء الهجي/4 باب ضبط الأفهام على معيار الوحي وتصحيح النبي لمقاييس النظر ....md": "📑",
+  "0. البناء الهجي/البناء المنهجي.md": "📎"
+}

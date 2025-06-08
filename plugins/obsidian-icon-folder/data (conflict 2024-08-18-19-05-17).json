@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "📎",
+      "📖",
+      "📗",
+      "📑"
+    ],
+    "recentlyUsedIconsSize": 4,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
+  },
+  "عشاوئيات": "FabFaceGrin",
+  "4. الأرشيف/flutter learning": {
+    "iconName": null,
+    "inheritanceIcon": "FabFileCode"
+  },
+  "4. الأرشيف/ملخصات كتب": {
+    "iconName": null,
+    "inheritanceIcon": "📎"
+  },
+  "0. البناء المهجي": {
+    "iconName": "🔖",
+    "inheritanceIcon": "📑"
+  },
+  "0. البناء المهجي/البناء المنهجي.md": "📎",
+  "0. البناء المهجي/اوراق/المنهاج من ميراث النبوة": "📗",
+  "0. البناء المهجي/جوامع البناء المنهجي/المنهاج من ميراث النبوة.md": "📗",
+  "2. ادوار المسؤليه/daily": "📫"
+}

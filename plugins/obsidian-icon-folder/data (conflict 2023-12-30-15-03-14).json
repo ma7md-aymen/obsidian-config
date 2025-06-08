@@ -1,0 +1,44 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "⤴",
+      "📫",
+      "📚",
+      "FabBuilding"
+    ],
+    "recentlyUsedIconsSize": 4,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
+  },
+  "ما بعد تالته": "⤴",
+  "wew": "SiSecurityscorecard",
+  "flutter learning": {
+    "iconName": "FabCode",
+    "inheritanceIcon": "FabFileCode"
+  },
+  "ideas": "FabLightbulb",
+  "عشاوئيات": "FabFaceGrin",
+  "فلسفة": "FabCommentDots",
+  "متجر": "FabBuilding",
+  "ملخصات كتب": {
+    "iconName": "📚",
+    "inheritanceIcon": "📎"
+  },
+  "day": "📫",
+  "ما بعد تالته/حجات عايز اتعلمها.md": "FabBook"
+}

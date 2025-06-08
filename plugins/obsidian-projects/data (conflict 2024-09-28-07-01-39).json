@@ -1,0 +1,205 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects - Demo Project",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {},
+            "orderFields": [
+              "ة",
+              "ة نن\\\\"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#a882ff",
+                "condition": {
+                  "field": "name",
+                  "operator": "is-not-empty",
+                  "enabled": true
+                }
+              },
+              {
+                "color": "#ff0000",
+                "condition": {
+                  "field": "name",
+                  "operator": "is-not-empty",
+                  "enabled": true
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Table",
+          "id": "ea0e1deb-fd07-433b-ab23-09d0c6678836",
+          "type": "table"
+        },
+        {
+          "config": {
+            "priorityField": "weight",
+            "columns": {
+              "Backlog": {
+                "weight": 0
+              },
+              "Doing": {
+                "weight": 1
+              },
+              "Done": {
+                "weight": 2
+              }
+            },
+            "groupByField": "status",
+            "includeFields": []
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": [
+              {
+                "color": "#a882ff",
+                "condition": {
+                  "field": "name",
+                  "operator": "is-not-empty",
+                  "enabled": true
+                }
+              }
+            ]
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Board",
+          "id": "1c25226a-1885-40b1-9c7e-8a728588780b",
+          "type": "board"
+        },
+        {
+          "config": {
+            "interval": "month",
+            "dateField": "due",
+            "checkField": "published"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Calendar",
+          "id": "40b9fd9f-eb9b-4fce-b6f9-43b14d55796b",
+          "type": "calendar"
+        },
+        {
+          "config": {
+            "coverField": "image"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "name": "Gallery",
+          "id": "711a1cdb-a665-445e-ba02-7e0775553f19",
+          "type": "gallery"
+        }
+      ],
+      "name": "Demo project",
+      "id": "290da92d-c36a-4364-a4a4-f8fc2e74aca7",
+      "path": "Projects - Demo Project"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "day",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "path",
+              "done?"
+            ],
+            "fieldConfig": {}
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "e58c7b93-1c50-4824-9cce-f734e66a0669",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "columnWidth": 270
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "78642db4-2502-44ab-bf1a-3ae8c3015d4d",
+          "name": "nonon",
+          "type": "board"
+        }
+      ],
+      "id": "8cb5f7bb-09e1-4e4a-9d3f-f6a00a97d182",
+      "name": "project wew1"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "commands": [],
+    "linkBehavior": "open-editor"
+  }
+}

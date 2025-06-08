@@ -1,0 +1,44 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "📎",
+      "📖",
+      "📗",
+      "📑"
+    ],
+    "recentlyUsedIconsSize": 4,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
+  },
+  "4. الأرشيف/flutter learning": {
+    "iconName": null,
+    "inheritanceIcon": "FabFileCode"
+  },
+  "4. الأرشيف/ملخصات كتب": {
+    "iconName": null,
+    "inheritanceIcon": "📎"
+  },
+  "البناء المهجي": {
+    "iconName": null,
+    "inheritanceIcon": "📑"
+  },
+  "1. مشاريع/حجات عايز اتعلمها.md": "FabBook",
+  "2. إدارة المسؤليات/البناء المنهجي.md": "📎",
+  "2. إدارة المسؤليات/اوراق/المنهاج من ميراث النبوة": "📗",
+  "4. أرشيف/daily": "📫"
+}

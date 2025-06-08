@@ -1,0 +1,39 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "3. مصادر مختلفة/ملفات/templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "2. ادوار المسؤليه/daily",
+      "template": "ملفات/templates/daily template.md"
+    },
+    {
+      "folder": "2. إدارة المسؤليات/ملخصات كتب",
+      "template": "3. مصادر مختلفة/ملفات/templates/ملخص كتب.md"
+    },
+    {
+      "folder": "0. البناء المهجي/المنهاج من ميراث النبوة",
+      "template": "ملفات/templates/المنهاج من ميراث النبوة.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "enable_ribbon_icon": true
+}
